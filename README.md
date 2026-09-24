@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @hold3r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/hold3r
+Embedded Firmware Engineer with 10+ years of experience developing embedded systems from prototype to production.
 
-<!---
-hold3r/hold3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Embedded & Firmware
+
+C / C++
+
+STM32, nRF52, ESP32, AVR, PIC
+
+FreeRTOS, Zephyr RTOS, ESP-IDF
+
+BLE, USB, CAN, SPI, I²C, UART
+
+Low-power embedded systems
+
+Hardware bring-up and debugging
+
+Firmware architecture and legacy code modernization
+
+Production testing and manufacturing support
+
+Hardware
+
+PCB design: KiCad, Altium Designer
+
+Digital and analog electronics
+
+Oscilloscopes, logic analyzers, protocol debugging
+
+Sensor integration and device prototyping
+
+Other
+
+Python for scripting and automation
+
+Qt / C++ desktop tools
+
+CMake, Git
+
+Currently interested in remote and contract Embedded Firmware / Embedded Systems projects.
+
+https://www.linkedin.com/in/dmitrii-levchenko/

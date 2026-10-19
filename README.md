@@ -1,31 +1,15 @@
-# Dmitrii Levchenko
+Hi, I'm Dmitrii. I've been working with embedded firmware and electronics for over 10 years.
 
-Embedded Firmware Engineer with 10+ years of experience developing embedded systems from prototype to production.
+I write C/C++ firmware for microcontrollers and maintain and improve existing devices. I also develop new devices, including analog and digital circuit design and PCB layout.
 
-## Embedded & Firmware
+Based in Vietnam (UTC+7) and open to remote work and B2B contracts.
 
-- C / C++
-- STM32, nRF52, ESP32, AVR, PIC
-- FreeRTOS, Zephyr RTOS, ESP-IDF
-- BLE, USB, CAN, SPI, I²C, UART
-- Low-power embedded systems
-- Hardware bring-up and debugging
-- Firmware architecture and legacy code modernization
-- Production testing and manufacturing support
+[Email](mailto:embedded.levchenko@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dmitrii-levchenko/)
 
-## Hardware
-
-- PCB design: KiCad, Altium Designer
-- Digital and analog electronics
-- Oscilloscopes, logic analyzers, protocol debugging
-- Sensor integration and device prototyping
-
-## Other
-
-- Python for scripting and automation
-- Qt / C++ desktop tools
-- CMake, Git
-
-Currently interested in remote and contract Embedded Firmware / Embedded Systems projects.
-
-[LinkedIn](https://www.linkedin.com/in/dmitrii-levchenko/)
+- **Languages:** C, C++, Assembly
+- **MCUs:** STM32, ESP32, nRF52, AVR, PIC
+- **RTOS & Systems:** FreeRTOS, Zephyr RTOS, Mongoose OS, ESP-IDF
+- **Connectivity:** BLE, USB, CAN, SPI, I2C, UART
+- **Tools:** STM32CubeIDE, VS Code, Visual Studio, CMake, Git, Keil uVision, Qt Creator
+- **Hardware:** KiCad, PCB layout, analog and digital circuit design
+- **Debugging:** Oscilloscopes, logic analyzers, USB sniffers, hardware debugging
